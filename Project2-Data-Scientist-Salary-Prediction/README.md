@@ -1,4 +1,4 @@
-t## Data Scientist Salary Prediction
+## Data Scientist Salary Prediction
 
 ### Author : Varsha Tomar
 
