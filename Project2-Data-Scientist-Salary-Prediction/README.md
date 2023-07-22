@@ -1,8 +1,8 @@
-## Data Scientist Salary Prediction
+t## Data Scientist Salary Prediction
 
 ### Author : Varsha Tomar
 
-This repository contains a comprehensive analysis of hiring trends and average salaries in the data science field, based on data scraped from the Glassdoor website. The analysis includes data cleaning, exploratory data analysis (EDA), and model building to predict the salary of a data scientist. The goal of this project is to identify key factors that impact salaries and develop a reliable predictive model.
+This project contains a comprehensive analysis of hiring trends and average salaries in the data science field, based on data scraped from the Glassdoor website. The analysis includes data cleaning, exploratory data analysis (EDA), and model building to predict the salary of a data scientist. The goal of this project is to identify key factors that impact salaries and develop a reliable predictive model.
 
 ## Abstract
 This paper presents a detailed analysis of data scientist salaries based on a dataset of 1000 job postings from Glassdoor. The analysis involves data cleaning, EDA, and model building techniques. The paper aims to uncover trends and factors that influence salaries in the data science field. A predictive model is also built to estimate average salaries for data scientists, providing insights for salary expectations.
