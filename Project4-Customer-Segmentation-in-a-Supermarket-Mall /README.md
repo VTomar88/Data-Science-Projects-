@@ -9,6 +9,7 @@ This project focuses on customer segmentation within a supermarket mall using un
 3. Dataset
 4. Methods
 5. Results and Discussion
+   
    i. Detailed Information on the Dataset
    ii. Exploratory Data Analysis
    iii. Feature Engineering
