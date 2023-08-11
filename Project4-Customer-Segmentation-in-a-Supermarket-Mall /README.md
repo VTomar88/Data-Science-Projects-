@@ -9,14 +9,14 @@ This project focuses on customer segmentation within a supermarket mall using un
 3. Dataset
 4. Methods
 5. Results and Discussion
-- Detailed Information on the Dataset
-- Exploratory Data Analysis
-- Feature Engineering
-- Unsupervised Modeling - K-means
-- Unsupervised Modeling - Density-Based Clustering (DBSCAN)
-7. Ethical Considerations
-8. Challenges
-9. References
+  - Detailed Information on the Dataset
+  - Exploratory Data Analysis
+  - Feature Engineering
+  - Unsupervised Modeling - K-means
+  - Unsupervised Modeling - Density-Based Clustering (DBSCAN)
+6. Ethical Considerations
+7. Challenges
+8. References
 
 ### Introduction
 This project aims to leverage unsupervised machine learning techniques to perform customer segmentation within a supermarket mall. By analyzing customer data using unsupervised machine learning algorithms, we aim to group customers based on their demographic attributes and spending patterns. The results of this segmentation can provide valuable insights for targeted marketing and business strategy development.
