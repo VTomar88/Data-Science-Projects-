@@ -9,11 +9,11 @@ This project focuses on customer segmentation within a supermarket mall using un
 3. Dataset
 4. Methods
 5. Results and Discussion
-   5.1 Detailed Information on the Dataset
-   5.2 Exploratory Data Analysis
-   5.3 Feature Engineering
-   5.4 Unsupervised Modeling - K-means
-   5.5 Unsupervised Modeling - Density-Based Clustering (DBSCAN)
+- Detailed Information on the Dataset
+- Exploratory Data Analysis
+- Feature Engineering
+- Unsupervised Modeling - K-means
+- Unsupervised Modeling - Density-Based Clustering (DBSCAN)
 7. Ethical Considerations
 8. Challenges
 9. References
