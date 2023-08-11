@@ -76,7 +76,5 @@ Evaluating algorithm performance and parameter selection.
 1.	Celebi, E.M. and Aydin, K. 2016. Unsupervised Learning Algorithms. Springer.
 2.	Patel, A. 2019. Hands-On Unsupervised Learning Using Python: How to build Applied Machine Learning Solutions from Unlabeled data. 1st Edition. O’Reilly Media.
 3.	Walker, M. 2020. Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights. Packt Publishing.
-4.	Kaggle. Mall Customer Segmentation Data.
-   
-[Link](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+4.	Kaggle. Mall Customer Segmentation Data. [Link](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
